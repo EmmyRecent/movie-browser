@@ -1,3 +1,7 @@
+![Screenshot 2023-10-30 113117](./public/screenshot.jpg)
+
+---
+
 # Getting Started with Movie Browser
 
 Movie Browser is a comprehensive web application designed to make your movie discovery experience seamless and enjoyable. Imagine a world where you can effortlessly search for any movie, series, or anime in existence and instantly access detailed information about it.
